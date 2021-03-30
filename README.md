@@ -4,20 +4,8 @@ Introduction to end-to-end machine learning
 
 ## Environment
 
-First, install Anaconda (for Linux):
+First, install Anaconda (for windows):
 
-```bash
-wget https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
-bash Anaconda3-2020.07-Linux-x86_64.sh 
-```
-
-For other systems, follow the intructions [here](https://www.anaconda.com/products/individual)
-
-Next, clone the repo:
-
-```bash
-git clone git@github.com:alexeygrigorev/e2e-ml-workshop.git 
-```
 
 Finally, run Jupyter in this folder:
 
